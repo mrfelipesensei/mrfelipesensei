@@ -6,17 +6,17 @@
   <br />
 
   <!-- Links Sociais -->
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/oliverfelipe/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/mrfelipesensei" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:seu.email@exemplo.com">
+  <a href="mailto:mrfelipesensei@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <br /><br />
+  <br />
 
   <p align="center">
     💡 <i>Especializado em Automação de Processos, Ferramentas Internas, Arquitetura MVC e Integrações de Sistemas.</i>
@@ -56,6 +56,6 @@ Por conterem regras de negócio proprietárias e dados protegidos pela **LGPD**,
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrfelipesensei&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfelipesensei&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
 </div>
