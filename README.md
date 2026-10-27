@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner Vaporwave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,25&height=180&section=header&text=Felipe%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=twinkling&textY=40&desc=Desenvolvedor%20Full-Stack%20|%20Engenharia%20de%20Software&descSize=18&descAlignY=65" width="100%" />
+  <!-- Header Banner Vaporwave Reajustado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,25&height=180&section=header&text=Felipe%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=twinkling&textY=28&desc=Desenvolvedor%20Full-Stack%20|%20Engenharia%20de%20Software&descSize=18&descAlignY=52" width="100%" />
 
   <br />
 
@@ -30,6 +30,6 @@
 ---
 
 ### 🔒 Sobre Meus Projetos de Produção
-Grande parte da minha experiência prática foi construída a desenvolver **sistemas corporativos internos em escala real** (CRMs com pipeline comercial, Intranets multifluxo, gestão de chamados com SLA e geração de PDFs). Por conterem regras de negócio proprietárias e dados protegidos pela LGPD, esses repositórios estão mantidos como **privados**.
+Grande parte da minha experiência prática foi construída desenvolvendo **sistemas corporativos internos em escala real** (CRMs com pipeline comercial, Intranets multifluxo, gestão de chamados com SLA e geração de PDFs). Por conterem regras de negócio proprietárias e dados protegidos pela LGPD, esses repositórios estão mantidos como **privados**.
 
-Fica à vontade para explorar os meus repositórios públicos abaixo para ver a minha base de estudos, scripts e projetos pessoais!
+Fique à vontade para checar meus repositórios públicos abaixo para ver minha base de estudos, scripts e projetos pessoais!
