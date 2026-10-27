@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Vaporwave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,25&height=220&section=header&text=Felipe%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Desenvolvedor%20Full-Stack%20|%20Engenharia%20de%20Software&descSize=18&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,25&height=180&section=header&text=Felipe%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=twinkling&textY=40&desc=Desenvolvedor%20Full-Stack%20|%20Engenharia%20de%20Software&descSize=18&descAlignY=65" width="100%" />
 
   <br />
 
@@ -12,10 +12,10 @@
 <br />
 
 ### 🚀 Sobre Mim
-* 💻 **Stack Principal:** PHP, JavaScript, Python, Java 17, SQL (MySQL) e Arquitetura MVC[cite: 2].
-* ⚙️ **Automação & Sistemas Internos:** Desenvolvi CRMs comerciais, Intranets corporativas, sistemas de chamados com SLA e formulários multifluxo[cite: 3].
-* 🎓 **Formação:** Engenharia de Software (Último Período - IESB)[cite: 2, 3] & Técnico em Informática pela Escola Técnica de Ceilândia[cite: 3].
-* 🌐 **Idiomas:** Português (Nativo) e Inglês Avançado[cite: 2].
+* 💻 **Stack Principal:** PHP, JavaScript, Python, Java 17, SQL (MySQL) e Arquitetura MVC.
+* ⚙️ **Automação & Sistemas Internos:** Desenvolvi CRMs comerciais, Intranets corporativas, sistemas de chamados com SLA e formulários multifluxo.
+* 🎓 **Formação:** Engenharia de Software (Último Período - IESB) & Técnico em Informática pela Escola Técnica de Ceilândia.
+* 🌐 **Idiomas:** Português (Nativo) e Inglês Avançado.
 
 ---
 
@@ -30,6 +30,6 @@
 ---
 
 ### 🔒 Sobre Meus Projetos de Produção
-Grande parte da minha experiência prática foi construída desenvolvendo **sistemas corporativos internos em escala real** (CRMs com pipeline comercial, Intranets multifluxo, gestão de chamados com SLA e geração de PDFs)[cite: 3]. Por conterem regras de negócio proprietárias e dados protegidos pela LGPD, esses repositórios estão mantidos como **privados**[cite: 3].
+Grande parte da minha experiência prática foi construída a desenvolver **sistemas corporativos internos em escala real** (CRMs com pipeline comercial, Intranets multifluxo, gestão de chamados com SLA e geração de PDFs). Por conterem regras de negócio proprietárias e dados protegidos pela LGPD, esses repositórios estão mantidos como **privados**.
 
-Fique à vontade para checar meus repositórios públicos abaixo para ver minha base de estudos, scripts e projetos pessoais!
+Fica à vontade para explorar os meus repositórios públicos abaixo para ver a minha base de estudos, scripts e projetos pessoais!
