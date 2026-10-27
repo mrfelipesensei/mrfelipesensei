@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Imagem de Fundo (Apenas a arte Vaporwave) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,25&height=160&section=header" width="100%" />
+  <!-- Header Banner Vaporwave Corrigido -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,25&height=180&section=header&text=Felipe%20de%20Oliveira&fontSize=40&fontColor=ffffff&animation=twinkling&textY=48&desc=Desenvolvedor%20Full-Stack%20|%20Engenharia%20de%20Software&descSize=16&descAlignY=72" width="100%" />
 
-  <!-- Dizeres posicionados por cima da arte -->
-  <h1 style="margin-top: -110px; position: relative; color: white;">Felipe de Oliveira</h1>
-  <p style="position: relative; color: #e2e8f0; font-size: 1.1rem; margin-top: -10px;"><strong>Desenvolvedor Full-Stack | Engenharia de Software</strong></p>
+  <br />
 
   <p>💡 <i>Especializado em Automação de Processos, Ferramentas Internas, Arquitetura MVC e Integrações de Sistemas.</i></p>
 
@@ -32,6 +30,6 @@
 ---
 
 ### 🔒 Sobre Meus Projetos de Produção
-Grande parte da minha experiência prática foi construída desenvolvendo **sistemas corporativos internos em escala real** (CRMs com pipeline comercial, Intranets multifluxo, gestão de chamados com SLA e geração de PDFs). Por conterem regras de negócio proprietárias e dados protegidos pela LGPD, esses repositórios estão mantidos como **privados**.
+Grande parte da minha experiência prática foi construída a desenvolver **sistemas corporativos internos em escala real** (CRMs com pipeline comercial, Intranets multifluxo, gestão de chamados com SLA e geração de PDFs). Por conterem regras de negócio proprietárias e dados protegidos pela LGPD, esses repositórios estão mantidos como **privados**.
 
-Fique à vontade para checar meus repositórios públicos abaixo para ver minha base de estudos, scripts e projetos pessoais!
+Fica à vontade para explorar os meus repositórios públicos abaixo para ver a minha base de estudos, scripts e projetos pessoais!
