@@ -1,21 +1,37 @@
 <div align="center">
 
-  <!-- Header Banner Vaporwave Corrigido -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,25&height=180&section=header&text=Felipe%20de%20Oliveira&fontSize=40&fontColor=ffffff&animation=twinkling&textY=48&desc=Desenvolvedor%20Full-Stack%20|%20Engenharia%20de%20Software&descSize=16&descAlignY=72" width="100%" />
+  <!-- Header Banner Modernizado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,28&height=200&section=header&text=Felipe%20de%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20|%20Engenharia%20de%20Software&descSize=20&descAlignY=55&descAlignX=50" width="100%" alt="Header Banner" />
 
   <br />
 
-  <p>💡 <i>Especializado em Automação de Processos, Ferramentas Internas, Arquitetura MVC e Integrações de Sistemas.</i></p>
+  <!-- Links Sociais -->
+  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:seu.email@exemplo.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br /><br />
+
+  <p align="center">
+    💡 <i>Especializado em Automação de Processos, Ferramentas Internas, Arquitetura MVC e Integrações de Sistemas.</i>
+  </p>
 
 </div>
 
 <br />
 
 ### 🚀 Sobre Mim
-* 💻 **Stack Principal:** PHP, JavaScript, Python, Java 17, SQL (MySQL) e Arquitetura MVC.
-* ⚙️ **Automação & Sistemas Internos:** Desenvolvi CRMs comerciais, Intranets corporativas, sistemas de chamados com SLA e formulários multifluxo.
-* 🎓 **Formação:** Engenharia de Software (Último Período - IESB) & Técnico em Informática pela Escola Técnica de Ceilândia.
-* 🌐 **Idiomas:** Português (Nativo) e Inglês Avançado.
+
+- 💻 **Stack Principal:** PHP, JavaScript, Python, Java 17, SQL (MySQL) e Arquitetura MVC.
+- ⚙️ **Automação & Sistemas Internos:** Desenvolvi CRMs comerciais, Intranets corporativas, sistemas de chamados com SLA e formulários multifluxo.
+- 🎓 **Formação:** Engenharia de Software (Último Período - IESB) & Técnico em Informática pela Escola Técnica de Ceilândia.
+- 🌐 **Idiomas:** Português (Nativo) e Inglês Avançado.
 
 ---
 
@@ -30,6 +46,16 @@
 ---
 
 ### 🔒 Sobre Meus Projetos de Produção
-Grande parte da minha experiência prática foi construída a desenvolver **sistemas corporativos internos em escala real** (CRMs com pipeline comercial, Intranets multifluxo, gestão de chamados com SLA e geração de PDFs). Por conterem regras de negócio proprietárias e dados protegidos pela LGPD, esses repositórios estão mantidos como **privados**.
 
-Fica à vontade para explorar os meus repositórios públicos abaixo para ver a minha base de estudos, scripts e projetos pessoais!
+Grande parte da minha experiência prática foi construída desenvolvendo **sistemas corporativos internos em escala real** (CRMs com pipeline comercial, Intranets multifluxo, gestão de chamados com SLA e geração de PDFs). 
+
+Por conterem regras de negócio proprietárias e dados protegidos pela **LGPD**, esses repositórios são mantidos como **privados**.
+
+> 💡 **Fica à vontade para explorar os meus repositórios públicos abaixo** para ver a minha base de estudos, scripts e projetos pessoais!
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+</div>
